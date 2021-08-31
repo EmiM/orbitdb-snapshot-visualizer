@@ -1,1 +1,3 @@
-# orbitdb-snapshot-visualizer
+## Orbidb tools
+
+Helpers for analyzing orbitdb
