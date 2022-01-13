@@ -1,0 +1,116 @@
+{
+    "id": "/orbitdb/zdpuB2oRcJr72NwHWCsiKH9wB7eJiHWSi3RYhaUvQAphW4zQJ/channels.babka",
+    "heads": [
+        {
+            "hash": "zdpuAvKxg9AARf64XpCHU14edbSFHuaWvF8UKgLsnvbBP4r1Y",
+            "id": "/orbitdb/zdpuB2oRcJr72NwHWCsiKH9wB7eJiHWSi3RYhaUvQAphW4zQJ/channels.babka",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "nez49uurfd",
+                    "type": 1,
+                    "pubKey": "BErIHcDYRAXGLF5KiciEJ3bjtp9IUvdHzpS+upeCbKGmqXsxCw2auEvLWpT1dozY5+xnEdBzAf4z/sbnw0sSmW8=",
+                    "message": "test1",
+                    "channelId": "babka",
+                    "createdAt": 1642074925.068,
+                    "signature": "Ä¶ðÂÀÙ\u0007&a\u00015 ~ç7³Úw3\r?ä¼î¹/P¥ñ¥Ì¥\u001fãdSÖ?M\\Ü-?Äîg*ÞÊã´"
+                }
+            },
+            "next": [
+                "zdpuAujXvohFSXUcJYezAuQMB6KP1ghZ6espLY7cuX13GNxWN"
+            ],
+            "refs": [],
+            "v": 2,
+            "clock": {
+                "id": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+                "time": 2
+            },
+            "key": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+            "identity": {
+                "id": "036330c95735c655c657735f03d2b9fe7b21fc0a0d5bfca4f9450d215f8da572a4",
+                "type": "orbitdb",
+                "publicKey": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+                "signatures": {
+                    "id": "304402206db8e8baa28b773d65e932b1e79437c28353f09d64eef1c9439550b5248fa0d7022040ef50e7d9af0b425934aa85092a98d24812e390cca310cfd79b59f6b929bf40",
+                    "publicKey": "3044022064f9e123f76ec45a6eb009adcf2a9d5f716ec103583f7488cd1717a14cea2c5d022047be0eacc8729d884c6701d2aabc78b4b1e577f3f88654b6ccedf40dc7953465"
+                }
+            },
+            "sig": "3044022052dfd0d6233a4714ee35e440d885455ec9fc5a5a31ad61b396737117d0380452022058db51e6c0f1c7ebfda063f7558b6eb7ac66b0032d2a5560eeb2aa02694f0b99"
+        }
+    ],
+    "values": [
+        {
+            "hash": "zdpuAujXvohFSXUcJYezAuQMB6KP1ghZ6espLY7cuX13GNxWN",
+            "id": "/orbitdb/zdpuB2oRcJr72NwHWCsiKH9wB7eJiHWSi3RYhaUvQAphW4zQJ/channels.babka",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "wwsexzm9pxb",
+                    "type": 1,
+                    "pubKey": "BNgYH2FOlmjJxtR3ZoCrPtnjTeeyY90zQEx6ak5JkoHk8i5LeLLZdfEjMpDuceJ40FWRX1jzwj+LADkee1Eheu0=",
+                    "message": "test1",
+                    "channelId": "babka",
+                    "createdAt": 1642074915.43,
+                    "signature": "ÿøS0j\u0017´Åp´\u001c(½Ä\u001aÃ!\u001bgñò ®¯÷Ö^\u0015üYê¤\b}_\tÈ!: \u0018ªôkåVØ¡Áæ\f\u0015ÁÕ§\u000bfW"
+                }
+            },
+            "next": [],
+            "refs": [],
+            "v": 2,
+            "clock": {
+                "id": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+                "time": 1
+            },
+            "key": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+            "identity": {
+                "id": "021661cebf3cd9cfa912dd3f919593159e783b3076f7700dd4f00485f31e79bee9",
+                "type": "orbitdb",
+                "publicKey": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+                "signatures": {
+                    "id": "3045022100c75d247d0e8426d5e08cb4aa4bdafac49e1939f03a7547c315cb5b17ee5bcf11022002684aa45cd95408dba0e7dde1a2d3f83581dfda4c7eb3ce30bea9c023706861",
+                    "publicKey": "3045022100b4721a03575b28ac40859af262a8e06289ad700b46dd3796b4b408c752bb4c9d0220665520c4f7fc3f685bfafa0d584e5c86f8ed19dc497c0a39f412fbe8e215565e"
+                }
+            },
+            "sig": "3045022100fe14a53964a3e2a3fdd1f11c0ce7d372a9a89f4bce402b590764c07bf532cdd102200d0e7cbb3ae9b6d7950c3cec682ff269bc27876ccdf3a6c24ac91a3447c0b032"
+        },
+        {
+            "hash": "zdpuAvKxg9AARf64XpCHU14edbSFHuaWvF8UKgLsnvbBP4r1Y",
+            "id": "/orbitdb/zdpuB2oRcJr72NwHWCsiKH9wB7eJiHWSi3RYhaUvQAphW4zQJ/channels.babka",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "nez49uurfd",
+                    "type": 1,
+                    "pubKey": "BErIHcDYRAXGLF5KiciEJ3bjtp9IUvdHzpS+upeCbKGmqXsxCw2auEvLWpT1dozY5+xnEdBzAf4z/sbnw0sSmW8=",
+                    "message": "test1",
+                    "channelId": "babka",
+                    "createdAt": 1642074925.068,
+                    "signature": "Ä¶ðÂÀÙ\u0007&a\u00015 ~ç7³Úw3\r?ä¼î¹/P¥ñ¥Ì¥\u001fãdSÖ?M\\Ü-?Äîg*ÞÊã´"
+                }
+            },
+            "next": [
+                "zdpuAujXvohFSXUcJYezAuQMB6KP1ghZ6espLY7cuX13GNxWN"
+            ],
+            "refs": [],
+            "v": 2,
+            "clock": {
+                "id": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+                "time": 2
+            },
+            "key": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+            "identity": {
+                "id": "036330c95735c655c657735f03d2b9fe7b21fc0a0d5bfca4f9450d215f8da572a4",
+                "type": "orbitdb",
+                "publicKey": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+                "signatures": {
+                    "id": "304402206db8e8baa28b773d65e932b1e79437c28353f09d64eef1c9439550b5248fa0d7022040ef50e7d9af0b425934aa85092a98d24812e390cca310cfd79b59f6b929bf40",
+                    "publicKey": "3044022064f9e123f76ec45a6eb009adcf2a9d5f716ec103583f7488cd1717a14cea2c5d022047be0eacc8729d884c6701d2aabc78b4b1e577f3f88654b6ccedf40dc7953465"
+                }
+            },
+            "sig": "3044022052dfd0d6233a4714ee35e440d885455ec9fc5a5a31ad61b396737117d0380452022058db51e6c0f1c7ebfda063f7558b6eb7ac66b0032d2a5560eeb2aa02694f0b99"
+        }
+    ]
+}

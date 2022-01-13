@@ -1,0 +1,572 @@
+{
+    "id": "/orbitdb/zdpuAr4TH9o73jUNRRnANciKzed69LYLEFxfhAuzAZaZuyzvQ/channels.wiktor",
+    "heads": [
+        {
+            "hash": "zdpuAwh2RYNgkgZrp6uxufbixosyQY5aRMLfGkWsxTHJmk9y3",
+            "id": "/orbitdb/zdpuAr4TH9o73jUNRRnANciKzed69LYLEFxfhAuzAZaZuyzvQ/channels.wiktor",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "hfkqzscnaxq",
+                    "type": 1,
+                    "pubKey": "BNgYH2FOlmjJxtR3ZoCrPtnjTeeyY90zQEx6ak5JkoHk8i5LeLLZdfEjMpDuceJ40FWRX1jzwj+LADkee1Eheu0=",
+                    "message": "ok, teraz na general, bez odbioru",
+                    "channelId": "wiktor",
+                    "createdAt": 1642075304.526,
+                    "signature": "æó9wïE\u001bàmÎh1\rÛI\u0006ý½d\u001a\u0016¬üyÆGd¼÷ø¸4Ö\f\u0013\u0005¼)iíøl:\u000e5ÛDV\u0007xÊËXÄ\"Í®û"
+                }
+            },
+            "next": [
+                "zdpuB2XuBrVxZPuPRnsP62nwWCdDxQjsEKsjVsXXLTKP3o2KV"
+            ],
+            "refs": [
+                "zdpuAvFHKU3iaEugs7xfCQBp4PjrFBMJvcSNQ32ZPAk69nXSF",
+                "zdpuApe6dNNqDyKPGkiUgG4gwU9iuHt6hrmww6ywVWUum8X5q",
+                "zdpuArYGfPu7wH967YeZHUjNfUw63HrTYuGmofjngZ1Abxvse",
+                "zdpuAoaYEQwzPVP6uXN1GgXtfSu4KEaNu4hTvh9z6PrTddW2z"
+            ],
+            "v": 2,
+            "clock": {
+                "id": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+                "time": 13
+            },
+            "key": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+            "identity": {
+                "id": "021661cebf3cd9cfa912dd3f919593159e783b3076f7700dd4f00485f31e79bee9",
+                "type": "orbitdb",
+                "publicKey": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+                "signatures": {
+                    "id": "3045022100c75d247d0e8426d5e08cb4aa4bdafac49e1939f03a7547c315cb5b17ee5bcf11022002684aa45cd95408dba0e7dde1a2d3f83581dfda4c7eb3ce30bea9c023706861",
+                    "publicKey": "3045022100b4721a03575b28ac40859af262a8e06289ad700b46dd3796b4b408c752bb4c9d0220665520c4f7fc3f685bfafa0d584e5c86f8ed19dc497c0a39f412fbe8e215565e"
+                }
+            },
+            "sig": "3045022100d452809940577eef2bb4189142fd7c035c8f51f96c9235591a65d58ca7b1054a022042b6bf1141bbc8291db1046e5835f29d4222387dded6a7c1cefd172539c0dcff"
+        }
+    ],
+    "values": [
+        {
+            "hash": "zdpuAoaYEQwzPVP6uXN1GgXtfSu4KEaNu4hTvh9z6PrTddW2z",
+            "id": "/orbitdb/zdpuAr4TH9o73jUNRRnANciKzed69LYLEFxfhAuzAZaZuyzvQ/channels.wiktor",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "r1gfwthr46b",
+                    "type": 1,
+                    "pubKey": "BNgYH2FOlmjJxtR3ZoCrPtnjTeeyY90zQEx6ak5JkoHk8i5LeLLZdfEjMpDuceJ40FWRX1jzwj+LADkee1Eheu0=",
+                    "message": "test1",
+                    "channelId": "wiktor",
+                    "createdAt": 1642075240.202,
+                    "signature": "hÄ±×t¨l\u0018KZ%±\tÑ^ÒNN1î@ô¼H]Í)t]'ÁzÉq\"P\u001e§É#Ë\u0006Èr\u0013ß\u001c}JóÛv¬dc"
+                }
+            },
+            "next": [],
+            "refs": [],
+            "v": 2,
+            "clock": {
+                "id": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+                "time": 1
+            },
+            "key": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+            "identity": {
+                "id": "021661cebf3cd9cfa912dd3f919593159e783b3076f7700dd4f00485f31e79bee9",
+                "type": "orbitdb",
+                "publicKey": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+                "signatures": {
+                    "id": "3045022100c75d247d0e8426d5e08cb4aa4bdafac49e1939f03a7547c315cb5b17ee5bcf11022002684aa45cd95408dba0e7dde1a2d3f83581dfda4c7eb3ce30bea9c023706861",
+                    "publicKey": "3045022100b4721a03575b28ac40859af262a8e06289ad700b46dd3796b4b408c752bb4c9d0220665520c4f7fc3f685bfafa0d584e5c86f8ed19dc497c0a39f412fbe8e215565e"
+                }
+            },
+            "sig": "3045022100d2e2b7c84120e3a27f74acbc6064c36905b431a387e0c00e2704cc74653e3218022049095596a9e33ba06b66c68ccdc1fc2554694f6cb91e6b5f3f5907f199dec5b2"
+        },
+        {
+            "hash": "zdpuAqctA5VMwoctvTYtSTcj9xogZuNGoG2fjFCpPBEDxXW4o",
+            "id": "/orbitdb/zdpuAr4TH9o73jUNRRnANciKzed69LYLEFxfhAuzAZaZuyzvQ/channels.wiktor",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "2mjzxgsmxis",
+                    "type": 1,
+                    "pubKey": "BErIHcDYRAXGLF5KiciEJ3bjtp9IUvdHzpS+upeCbKGmqXsxCw2auEvLWpT1dozY5+xnEdBzAf4z/sbnw0sSmW8=",
+                    "message": "test1",
+                    "channelId": "wiktor",
+                    "createdAt": 1642075255.61,
+                    "signature": "\u001d°iz\u0001êLwCå5LXÿç¨#NË­Ãnëf[\u0007ÛâKk=í)·vãýpS¶øËÚYCÝU´²\u0019{·û^LúíÍ"
+                }
+            },
+            "next": [
+                "zdpuAoaYEQwzPVP6uXN1GgXtfSu4KEaNu4hTvh9z6PrTddW2z"
+            ],
+            "refs": [],
+            "v": 2,
+            "clock": {
+                "id": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+                "time": 2
+            },
+            "key": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+            "identity": {
+                "id": "036330c95735c655c657735f03d2b9fe7b21fc0a0d5bfca4f9450d215f8da572a4",
+                "type": "orbitdb",
+                "publicKey": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+                "signatures": {
+                    "id": "304402206db8e8baa28b773d65e932b1e79437c28353f09d64eef1c9439550b5248fa0d7022040ef50e7d9af0b425934aa85092a98d24812e390cca310cfd79b59f6b929bf40",
+                    "publicKey": "3044022064f9e123f76ec45a6eb009adcf2a9d5f716ec103583f7488cd1717a14cea2c5d022047be0eacc8729d884c6701d2aabc78b4b1e577f3f88654b6ccedf40dc7953465"
+                }
+            },
+            "sig": "3045022100bab694d9da1353e79670abbb2d2b7d2f047f5c7309fb69b6ecb23ff7e2688c5f02203ff0e759094c070cf4c5c8a503462283030f763b14372dd763b41a0c64aac91e"
+        },
+        {
+            "hash": "zdpuAnTCLJytFiH7bgbXHXkJnhP7EqZZsocbdz7PM7gWqzRER",
+            "id": "/orbitdb/zdpuAr4TH9o73jUNRRnANciKzed69LYLEFxfhAuzAZaZuyzvQ/channels.wiktor",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "lwjzxg5e7h",
+                    "type": 1,
+                    "pubKey": "BObzwt+LZsh8pcD89J7/h9M62rQ+lEB8n0BfTnBFbPDmzxCKf8uptW2xX7sQ+QJPR4hfRMaCyRSt9OmkFkKVvUE=",
+                    "message": "test1",
+                    "channelId": "wiktor",
+                    "createdAt": 1642075257.977,
+                    "signature": "FÇ«þ8PæN\u001c×\u0013æ\u001b2âñõ®}JCZM¬GYÅ\u0013\u001b\u0019EAF\u0001·h³&\u0016@\t¾äïR\u0010\u0015chY^ÉuâÓ8Y"
+                }
+            },
+            "next": [
+                "zdpuAqctA5VMwoctvTYtSTcj9xogZuNGoG2fjFCpPBEDxXW4o"
+            ],
+            "refs": [
+                "zdpuAoaYEQwzPVP6uXN1GgXtfSu4KEaNu4hTvh9z6PrTddW2z"
+            ],
+            "v": 2,
+            "clock": {
+                "id": "04129934d63448a494ebf694fd7cdeb75172805a6b8efde463c5072992c3e1be934ad39a420b36facccf5695ee651d59a82b47ce6b68069ecec24eea1d03f6111f",
+                "time": 3
+            },
+            "key": "04129934d63448a494ebf694fd7cdeb75172805a6b8efde463c5072992c3e1be934ad39a420b36facccf5695ee651d59a82b47ce6b68069ecec24eea1d03f6111f",
+            "identity": {
+                "id": "0344ba45e572c78da594b1346469218f288a966c42088330c8dc935eb9cc3a6e68",
+                "type": "orbitdb",
+                "publicKey": "04129934d63448a494ebf694fd7cdeb75172805a6b8efde463c5072992c3e1be934ad39a420b36facccf5695ee651d59a82b47ce6b68069ecec24eea1d03f6111f",
+                "signatures": {
+                    "id": "3045022100f72d47fa920527146fdc5b3aca916265f4f95d0662e136a59a300797b731be2802203ea67e95963c83d0c58ad982138bc73a2c50b6c06c469cc5814577ba2776bf6f",
+                    "publicKey": "3045022100b3450899b7c21106ba9ef6c1a66ff1f126021374e7746011d493e9ddef56df1402201e22e32b64b5cf0afacaf95e2a0de256c13d45eddc1ca724107c690a0e54a9f0"
+                }
+            },
+            "sig": "3045022100bad28a1c731cceb734b8d40851e1ee2199beef5dc843efaafe5635ed511abf8002205de427a92ef05379da1796d775666458b55919e4ea37701852b86e3ac0cebc9d"
+        },
+        {
+            "hash": "zdpuAnbfbwfZ5NEQEBbmFfa8smahBYpeb7m8vCRibXJYpb6DP",
+            "id": "/orbitdb/zdpuAr4TH9o73jUNRRnANciKzed69LYLEFxfhAuzAZaZuyzvQ/channels.wiktor",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "b2hayqb1wd",
+                    "type": 1,
+                    "pubKey": "BNgYH2FOlmjJxtR3ZoCrPtnjTeeyY90zQEx6ak5JkoHk8i5LeLLZdfEjMpDuceJ40FWRX1jzwj+LADkee1Eheu0=",
+                    "message": "test2",
+                    "channelId": "wiktor",
+                    "createdAt": 1642075261.024,
+                    "signature": "¹\u001d\u0003u5jãä¢¯wÎAð ÞYFA1õ7},rÄbáXÅozCmé´S7¿8u}Úh\b0H\\Ä¾¡E§öÕ"
+                }
+            },
+            "next": [
+                "zdpuAnTCLJytFiH7bgbXHXkJnhP7EqZZsocbdz7PM7gWqzRER"
+            ],
+            "refs": [
+                "zdpuAqctA5VMwoctvTYtSTcj9xogZuNGoG2fjFCpPBEDxXW4o",
+                "zdpuAoaYEQwzPVP6uXN1GgXtfSu4KEaNu4hTvh9z6PrTddW2z"
+            ],
+            "v": 2,
+            "clock": {
+                "id": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+                "time": 4
+            },
+            "key": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+            "identity": {
+                "id": "021661cebf3cd9cfa912dd3f919593159e783b3076f7700dd4f00485f31e79bee9",
+                "type": "orbitdb",
+                "publicKey": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+                "signatures": {
+                    "id": "3045022100c75d247d0e8426d5e08cb4aa4bdafac49e1939f03a7547c315cb5b17ee5bcf11022002684aa45cd95408dba0e7dde1a2d3f83581dfda4c7eb3ce30bea9c023706861",
+                    "publicKey": "3045022100b4721a03575b28ac40859af262a8e06289ad700b46dd3796b4b408c752bb4c9d0220665520c4f7fc3f685bfafa0d584e5c86f8ed19dc497c0a39f412fbe8e215565e"
+                }
+            },
+            "sig": "304402203bc49dee60805083fb8ba1cb55366aa25d394cb7dda15e2e083c8efeaaca7f3e02206592848e4a1d55712df8e4766c2f7cc82beb884e4b509978d105746ca93da333"
+        },
+        {
+            "hash": "zdpuArYGfPu7wH967YeZHUjNfUw63HrTYuGmofjngZ1Abxvse",
+            "id": "/orbitdb/zdpuAr4TH9o73jUNRRnANciKzed69LYLEFxfhAuzAZaZuyzvQ/channels.wiktor",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "c6x17c1h19",
+                    "type": 1,
+                    "pubKey": "BErIHcDYRAXGLF5KiciEJ3bjtp9IUvdHzpS+upeCbKGmqXsxCw2auEvLWpT1dozY5+xnEdBzAf4z/sbnw0sSmW8=",
+                    "message": "test2",
+                    "channelId": "wiktor",
+                    "createdAt": 1642075264.897,
+                    "signature": "s`åÔaÚôÃdÞJÙmÚ\u000e\u001e.\u0003T¸\u0002{>g³#sïD9Òxë~(\b_\u0017!Ó3\u001cB\n®OOøü÷N\u00109³zÊë4N5ï"
+                }
+            },
+            "next": [
+                "zdpuAnbfbwfZ5NEQEBbmFfa8smahBYpeb7m8vCRibXJYpb6DP"
+            ],
+            "refs": [
+                "zdpuAnTCLJytFiH7bgbXHXkJnhP7EqZZsocbdz7PM7gWqzRER",
+                "zdpuAoaYEQwzPVP6uXN1GgXtfSu4KEaNu4hTvh9z6PrTddW2z"
+            ],
+            "v": 2,
+            "clock": {
+                "id": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+                "time": 5
+            },
+            "key": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+            "identity": {
+                "id": "036330c95735c655c657735f03d2b9fe7b21fc0a0d5bfca4f9450d215f8da572a4",
+                "type": "orbitdb",
+                "publicKey": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+                "signatures": {
+                    "id": "304402206db8e8baa28b773d65e932b1e79437c28353f09d64eef1c9439550b5248fa0d7022040ef50e7d9af0b425934aa85092a98d24812e390cca310cfd79b59f6b929bf40",
+                    "publicKey": "3044022064f9e123f76ec45a6eb009adcf2a9d5f716ec103583f7488cd1717a14cea2c5d022047be0eacc8729d884c6701d2aabc78b4b1e577f3f88654b6ccedf40dc7953465"
+                }
+            },
+            "sig": "3045022100a8567ab72e18b56ea960c6f774201298b7b43cdbeebb0f59911aa2fc6b99ba67022012e5b435f042f055704dea324e9f0ffb6ec805c681b901d5e40a877cdea8b7d9"
+        },
+        {
+            "hash": "zdpuAoCXeioCwLd7ADuzF3xevRSrBeZpxuvqYKaC3Mpz4bKBW",
+            "id": "/orbitdb/zdpuAr4TH9o73jUNRRnANciKzed69LYLEFxfhAuzAZaZuyzvQ/channels.wiktor",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "7c8s7l1khtw",
+                    "type": 1,
+                    "pubKey": "BObzwt+LZsh8pcD89J7/h9M62rQ+lEB8n0BfTnBFbPDmzxCKf8uptW2xX7sQ+QJPR4hfRMaCyRSt9OmkFkKVvUE=",
+                    "message": "test2",
+                    "channelId": "wiktor",
+                    "createdAt": 1642075267.349,
+                    "signature": "ä\t­$\u001a\u0011=}Ö/¨q/0Y(½LÁ´`ÄâTìq¹ø\u0014Ù§¤Î}âtvÙ=¦'ÅNKÙ>*ÇÂ[>ãYam"
+                }
+            },
+            "next": [
+                "zdpuArYGfPu7wH967YeZHUjNfUw63HrTYuGmofjngZ1Abxvse"
+            ],
+            "refs": [
+                "zdpuAnbfbwfZ5NEQEBbmFfa8smahBYpeb7m8vCRibXJYpb6DP",
+                "zdpuAqctA5VMwoctvTYtSTcj9xogZuNGoG2fjFCpPBEDxXW4o",
+                "zdpuAoaYEQwzPVP6uXN1GgXtfSu4KEaNu4hTvh9z6PrTddW2z"
+            ],
+            "v": 2,
+            "clock": {
+                "id": "04129934d63448a494ebf694fd7cdeb75172805a6b8efde463c5072992c3e1be934ad39a420b36facccf5695ee651d59a82b47ce6b68069ecec24eea1d03f6111f",
+                "time": 6
+            },
+            "key": "04129934d63448a494ebf694fd7cdeb75172805a6b8efde463c5072992c3e1be934ad39a420b36facccf5695ee651d59a82b47ce6b68069ecec24eea1d03f6111f",
+            "identity": {
+                "id": "0344ba45e572c78da594b1346469218f288a966c42088330c8dc935eb9cc3a6e68",
+                "type": "orbitdb",
+                "publicKey": "04129934d63448a494ebf694fd7cdeb75172805a6b8efde463c5072992c3e1be934ad39a420b36facccf5695ee651d59a82b47ce6b68069ecec24eea1d03f6111f",
+                "signatures": {
+                    "id": "3045022100f72d47fa920527146fdc5b3aca916265f4f95d0662e136a59a300797b731be2802203ea67e95963c83d0c58ad982138bc73a2c50b6c06c469cc5814577ba2776bf6f",
+                    "publicKey": "3045022100b3450899b7c21106ba9ef6c1a66ff1f126021374e7746011d493e9ddef56df1402201e22e32b64b5cf0afacaf95e2a0de256c13d45eddc1ca724107c690a0e54a9f0"
+                }
+            },
+            "sig": "3045022100f26b372090cbd24eed6984358c24dfd0a1030fcd160b76bbc3952a958c36777b02201053f66a15c9ddcb32b32e67a6a19494fb690e3c3e17d66766ef272eb0f2ff13"
+        },
+        {
+            "hash": "zdpuAqX433fR57ZVdCdYtf444hkRk2n4aavRZFCx1HSH9UQzr",
+            "id": "/orbitdb/zdpuAr4TH9o73jUNRRnANciKzed69LYLEFxfhAuzAZaZuyzvQ/channels.wiktor",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "ojkm62itjy9",
+                    "type": 1,
+                    "pubKey": "BNgYH2FOlmjJxtR3ZoCrPtnjTeeyY90zQEx6ak5JkoHk8i5LeLLZdfEjMpDuceJ40FWRX1jzwj+LADkee1Eheu0=",
+                    "message": "test3",
+                    "channelId": "wiktor",
+                    "createdAt": 1642075271.728,
+                    "signature": "ùçòª¼Ö\\Ãh\\î;\u001dÌ¦8\u000e4\fÆ5¿Ö¨+eB# ÐWèæ\u0007ßò\u0005ã\t\u0003\u000e&ÿíõU>QÀV¦^°\r1­"
+                }
+            },
+            "next": [
+                "zdpuAoCXeioCwLd7ADuzF3xevRSrBeZpxuvqYKaC3Mpz4bKBW"
+            ],
+            "refs": [
+                "zdpuArYGfPu7wH967YeZHUjNfUw63HrTYuGmofjngZ1Abxvse",
+                "zdpuAnTCLJytFiH7bgbXHXkJnhP7EqZZsocbdz7PM7gWqzRER",
+                "zdpuAoaYEQwzPVP6uXN1GgXtfSu4KEaNu4hTvh9z6PrTddW2z"
+            ],
+            "v": 2,
+            "clock": {
+                "id": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+                "time": 7
+            },
+            "key": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+            "identity": {
+                "id": "021661cebf3cd9cfa912dd3f919593159e783b3076f7700dd4f00485f31e79bee9",
+                "type": "orbitdb",
+                "publicKey": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+                "signatures": {
+                    "id": "3045022100c75d247d0e8426d5e08cb4aa4bdafac49e1939f03a7547c315cb5b17ee5bcf11022002684aa45cd95408dba0e7dde1a2d3f83581dfda4c7eb3ce30bea9c023706861",
+                    "publicKey": "3045022100b4721a03575b28ac40859af262a8e06289ad700b46dd3796b4b408c752bb4c9d0220665520c4f7fc3f685bfafa0d584e5c86f8ed19dc497c0a39f412fbe8e215565e"
+                }
+            },
+            "sig": "3045022100b7257c126a96d726d72a2b80b1ebf52cde3e6714afce99e596034e9c9c0442a502202188edeced9be5be4c333ba80ba30e8f4aecb7e11e2b0306e2dc2fd770211889"
+        },
+        {
+            "hash": "zdpuB1kwcUiQVMgAsBribRoGx7z9hDcaqmCoAFomukJojtptZ",
+            "id": "/orbitdb/zdpuAr4TH9o73jUNRRnANciKzed69LYLEFxfhAuzAZaZuyzvQ/channels.wiktor",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "3z1uyzdfafq",
+                    "type": 1,
+                    "pubKey": "BErIHcDYRAXGLF5KiciEJ3bjtp9IUvdHzpS+upeCbKGmqXsxCw2auEvLWpT1dozY5+xnEdBzAf4z/sbnw0sSmW8=",
+                    "message": "test3",
+                    "channelId": "wiktor",
+                    "createdAt": 1642075274.817,
+                    "signature": "l«ÈBôS\u0000Ä()&jùxÉ\u001e\u001a\tMO½;ÃÅw³Q\u0011¡Jm¼\tzÔ\u0005Ô­Â÷\u0017½cé¯À³×¢.múGñ¸"
+                }
+            },
+            "next": [
+                "zdpuAqX433fR57ZVdCdYtf444hkRk2n4aavRZFCx1HSH9UQzr"
+            ],
+            "refs": [
+                "zdpuAoCXeioCwLd7ADuzF3xevRSrBeZpxuvqYKaC3Mpz4bKBW",
+                "zdpuAnbfbwfZ5NEQEBbmFfa8smahBYpeb7m8vCRibXJYpb6DP",
+                "zdpuAoaYEQwzPVP6uXN1GgXtfSu4KEaNu4hTvh9z6PrTddW2z"
+            ],
+            "v": 2,
+            "clock": {
+                "id": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+                "time": 8
+            },
+            "key": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+            "identity": {
+                "id": "036330c95735c655c657735f03d2b9fe7b21fc0a0d5bfca4f9450d215f8da572a4",
+                "type": "orbitdb",
+                "publicKey": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+                "signatures": {
+                    "id": "304402206db8e8baa28b773d65e932b1e79437c28353f09d64eef1c9439550b5248fa0d7022040ef50e7d9af0b425934aa85092a98d24812e390cca310cfd79b59f6b929bf40",
+                    "publicKey": "3044022064f9e123f76ec45a6eb009adcf2a9d5f716ec103583f7488cd1717a14cea2c5d022047be0eacc8729d884c6701d2aabc78b4b1e577f3f88654b6ccedf40dc7953465"
+                }
+            },
+            "sig": "30440220549985c0a8cd6ab6c22b9bfd81c91d1ff97b85960f492f22a1ae251cdedbf11d02205de0363584bd2768fa10b3658ce7014941acc048ac622b74d26a457342154546"
+        },
+        {
+            "hash": "zdpuApe6dNNqDyKPGkiUgG4gwU9iuHt6hrmww6ywVWUum8X5q",
+            "id": "/orbitdb/zdpuAr4TH9o73jUNRRnANciKzed69LYLEFxfhAuzAZaZuyzvQ/channels.wiktor",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "yy9epd9jeua",
+                    "type": 1,
+                    "pubKey": "BObzwt+LZsh8pcD89J7/h9M62rQ+lEB8n0BfTnBFbPDmzxCKf8uptW2xX7sQ+QJPR4hfRMaCyRSt9OmkFkKVvUE=",
+                    "message": "test3",
+                    "channelId": "wiktor",
+                    "createdAt": 1642075277.836,
+                    "signature": "!\n¯lÆZï5©·ÉZc\u001b¾mªÑ¾9È´73\u000bò\u0005hîBØái{HJã\u0017ÖnàÅ¨\u0019;øv_{Ü½\u001dP@_²aA"
+                }
+            },
+            "next": [
+                "zdpuB1kwcUiQVMgAsBribRoGx7z9hDcaqmCoAFomukJojtptZ"
+            ],
+            "refs": [
+                "zdpuAqX433fR57ZVdCdYtf444hkRk2n4aavRZFCx1HSH9UQzr",
+                "zdpuArYGfPu7wH967YeZHUjNfUw63HrTYuGmofjngZ1Abxvse",
+                "zdpuAoaYEQwzPVP6uXN1GgXtfSu4KEaNu4hTvh9z6PrTddW2z"
+            ],
+            "v": 2,
+            "clock": {
+                "id": "04129934d63448a494ebf694fd7cdeb75172805a6b8efde463c5072992c3e1be934ad39a420b36facccf5695ee651d59a82b47ce6b68069ecec24eea1d03f6111f",
+                "time": 9
+            },
+            "key": "04129934d63448a494ebf694fd7cdeb75172805a6b8efde463c5072992c3e1be934ad39a420b36facccf5695ee651d59a82b47ce6b68069ecec24eea1d03f6111f",
+            "identity": {
+                "id": "0344ba45e572c78da594b1346469218f288a966c42088330c8dc935eb9cc3a6e68",
+                "type": "orbitdb",
+                "publicKey": "04129934d63448a494ebf694fd7cdeb75172805a6b8efde463c5072992c3e1be934ad39a420b36facccf5695ee651d59a82b47ce6b68069ecec24eea1d03f6111f",
+                "signatures": {
+                    "id": "3045022100f72d47fa920527146fdc5b3aca916265f4f95d0662e136a59a300797b731be2802203ea67e95963c83d0c58ad982138bc73a2c50b6c06c469cc5814577ba2776bf6f",
+                    "publicKey": "3045022100b3450899b7c21106ba9ef6c1a66ff1f126021374e7746011d493e9ddef56df1402201e22e32b64b5cf0afacaf95e2a0de256c13d45eddc1ca724107c690a0e54a9f0"
+                }
+            },
+            "sig": "3044022018ad8e0f1c5342075b41f1b632727c33307f1f4f633293f7f4000eb4022a02e1022039af5992ab41de44342d9fefc66cd135b2501f5dbd9428e6358fdf6dd0c4e910"
+        },
+        {
+            "hash": "zdpuAyQZ71F4NTjgFqc8hKPP6gEfdtCjV9MQMK4sJqAv9mBN7",
+            "id": "/orbitdb/zdpuAr4TH9o73jUNRRnANciKzed69LYLEFxfhAuzAZaZuyzvQ/channels.wiktor",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "wnl7ljidj4",
+                    "type": 1,
+                    "pubKey": "BNgYH2FOlmjJxtR3ZoCrPtnjTeeyY90zQEx6ak5JkoHk8i5LeLLZdfEjMpDuceJ40FWRX1jzwj+LADkee1Eheu0=",
+                    "message": "test4",
+                    "channelId": "wiktor",
+                    "createdAt": 1642075284.206,
+                    "signature": "¼ÎÌìÁç\u001e-;Sô \u0006\u001b&M;7Qü\u0006Aïì ]¨ÚÕ}wÙ¹Û}\u0016\u0011¦6ï`S\u0015µï'%U8j>q=\u0018;"
+                }
+            },
+            "next": [
+                "zdpuApe6dNNqDyKPGkiUgG4gwU9iuHt6hrmww6ywVWUum8X5q"
+            ],
+            "refs": [
+                "zdpuB1kwcUiQVMgAsBribRoGx7z9hDcaqmCoAFomukJojtptZ",
+                "zdpuAoCXeioCwLd7ADuzF3xevRSrBeZpxuvqYKaC3Mpz4bKBW",
+                "zdpuAqctA5VMwoctvTYtSTcj9xogZuNGoG2fjFCpPBEDxXW4o",
+                "zdpuAoaYEQwzPVP6uXN1GgXtfSu4KEaNu4hTvh9z6PrTddW2z"
+            ],
+            "v": 2,
+            "clock": {
+                "id": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+                "time": 10
+            },
+            "key": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+            "identity": {
+                "id": "021661cebf3cd9cfa912dd3f919593159e783b3076f7700dd4f00485f31e79bee9",
+                "type": "orbitdb",
+                "publicKey": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+                "signatures": {
+                    "id": "3045022100c75d247d0e8426d5e08cb4aa4bdafac49e1939f03a7547c315cb5b17ee5bcf11022002684aa45cd95408dba0e7dde1a2d3f83581dfda4c7eb3ce30bea9c023706861",
+                    "publicKey": "3045022100b4721a03575b28ac40859af262a8e06289ad700b46dd3796b4b408c752bb4c9d0220665520c4f7fc3f685bfafa0d584e5c86f8ed19dc497c0a39f412fbe8e215565e"
+                }
+            },
+            "sig": "30450221009a6c62f4b8eda3d855ca8f7fe616255ac75ef48532fd70e34b13e42594fe516402206083a7637bdbd4e631ba2092230c34a8cd6629a97e1610671282287aefd67f81"
+        },
+        {
+            "hash": "zdpuAvFHKU3iaEugs7xfCQBp4PjrFBMJvcSNQ32ZPAk69nXSF",
+            "id": "/orbitdb/zdpuAr4TH9o73jUNRRnANciKzed69LYLEFxfhAuzAZaZuyzvQ/channels.wiktor",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "a6834ff9dts",
+                    "type": 1,
+                    "pubKey": "BErIHcDYRAXGLF5KiciEJ3bjtp9IUvdHzpS+upeCbKGmqXsxCw2auEvLWpT1dozY5+xnEdBzAf4z/sbnw0sSmW8=",
+                    "message": "test4",
+                    "channelId": "wiktor",
+                    "createdAt": 1642075287.147,
+                    "signature": "&¿ûÝ@\u0004÷B<òÒôÆS³\u000b\nY¼ðW\"æ\u001ddÿeiÆrÐ\u0010B§\fN\\t `dr.¨r\u0003A\u001c*\u0014T\f\r¾Gº"
+                }
+            },
+            "next": [
+                "zdpuAyQZ71F4NTjgFqc8hKPP6gEfdtCjV9MQMK4sJqAv9mBN7"
+            ],
+            "refs": [
+                "zdpuApe6dNNqDyKPGkiUgG4gwU9iuHt6hrmww6ywVWUum8X5q",
+                "zdpuAqX433fR57ZVdCdYtf444hkRk2n4aavRZFCx1HSH9UQzr",
+                "zdpuAnTCLJytFiH7bgbXHXkJnhP7EqZZsocbdz7PM7gWqzRER",
+                "zdpuAoaYEQwzPVP6uXN1GgXtfSu4KEaNu4hTvh9z6PrTddW2z"
+            ],
+            "v": 2,
+            "clock": {
+                "id": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+                "time": 11
+            },
+            "key": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+            "identity": {
+                "id": "036330c95735c655c657735f03d2b9fe7b21fc0a0d5bfca4f9450d215f8da572a4",
+                "type": "orbitdb",
+                "publicKey": "04dc7b420b48686329aea106cedf80af5c550114403aa1ddbbf9a6187abee1b7d34e2686afaac3ba5cad8b70259edabdcfe6832ef341bd475d7993c1c061ac1a59",
+                "signatures": {
+                    "id": "304402206db8e8baa28b773d65e932b1e79437c28353f09d64eef1c9439550b5248fa0d7022040ef50e7d9af0b425934aa85092a98d24812e390cca310cfd79b59f6b929bf40",
+                    "publicKey": "3044022064f9e123f76ec45a6eb009adcf2a9d5f716ec103583f7488cd1717a14cea2c5d022047be0eacc8729d884c6701d2aabc78b4b1e577f3f88654b6ccedf40dc7953465"
+                }
+            },
+            "sig": "304402206677f71652e4bc8f16e854f0058fb1ce49bf86eb034dc56db07707b320305dde022037b25edcf9c31b89371094280fb36c84a66709d8d0947588e2e19220c12f2df3"
+        },
+        {
+            "hash": "zdpuB2XuBrVxZPuPRnsP62nwWCdDxQjsEKsjVsXXLTKP3o2KV",
+            "id": "/orbitdb/zdpuAr4TH9o73jUNRRnANciKzed69LYLEFxfhAuzAZaZuyzvQ/channels.wiktor",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "af96mjm9ur",
+                    "type": 1,
+                    "pubKey": "BObzwt+LZsh8pcD89J7/h9M62rQ+lEB8n0BfTnBFbPDmzxCKf8uptW2xX7sQ+QJPR4hfRMaCyRSt9OmkFkKVvUE=",
+                    "message": "test4",
+                    "channelId": "wiktor",
+                    "createdAt": 1642075289.757,
+                    "signature": "ï|2Ép>ZÈþCpÿúNÌ\u001dM\"dg>ÇÄ3Ì\\«´060Ã°C\u0010b­µêjsè©\u001e\n!ÝÂ¿]¹àbgì\u001b¿µ6"
+                }
+            },
+            "next": [
+                "zdpuAvFHKU3iaEugs7xfCQBp4PjrFBMJvcSNQ32ZPAk69nXSF"
+            ],
+            "refs": [
+                "zdpuAyQZ71F4NTjgFqc8hKPP6gEfdtCjV9MQMK4sJqAv9mBN7",
+                "zdpuB1kwcUiQVMgAsBribRoGx7z9hDcaqmCoAFomukJojtptZ",
+                "zdpuAnbfbwfZ5NEQEBbmFfa8smahBYpeb7m8vCRibXJYpb6DP",
+                "zdpuAoaYEQwzPVP6uXN1GgXtfSu4KEaNu4hTvh9z6PrTddW2z"
+            ],
+            "v": 2,
+            "clock": {
+                "id": "04129934d63448a494ebf694fd7cdeb75172805a6b8efde463c5072992c3e1be934ad39a420b36facccf5695ee651d59a82b47ce6b68069ecec24eea1d03f6111f",
+                "time": 12
+            },
+            "key": "04129934d63448a494ebf694fd7cdeb75172805a6b8efde463c5072992c3e1be934ad39a420b36facccf5695ee651d59a82b47ce6b68069ecec24eea1d03f6111f",
+            "identity": {
+                "id": "0344ba45e572c78da594b1346469218f288a966c42088330c8dc935eb9cc3a6e68",
+                "type": "orbitdb",
+                "publicKey": "04129934d63448a494ebf694fd7cdeb75172805a6b8efde463c5072992c3e1be934ad39a420b36facccf5695ee651d59a82b47ce6b68069ecec24eea1d03f6111f",
+                "signatures": {
+                    "id": "3045022100f72d47fa920527146fdc5b3aca916265f4f95d0662e136a59a300797b731be2802203ea67e95963c83d0c58ad982138bc73a2c50b6c06c469cc5814577ba2776bf6f",
+                    "publicKey": "3045022100b3450899b7c21106ba9ef6c1a66ff1f126021374e7746011d493e9ddef56df1402201e22e32b64b5cf0afacaf95e2a0de256c13d45eddc1ca724107c690a0e54a9f0"
+                }
+            },
+            "sig": "3045022100cdeb262ecd79d5cecb1ef72704d7dbcbc47d0fd5c8c59fe8222e94f1f3a67db20220420010e9d4bab262d4359ccf0342bc4d3ec80a9974ac108e0a1a1eed7b4457a0"
+        },
+        {
+            "hash": "zdpuAwh2RYNgkgZrp6uxufbixosyQY5aRMLfGkWsxTHJmk9y3",
+            "id": "/orbitdb/zdpuAr4TH9o73jUNRRnANciKzed69LYLEFxfhAuzAZaZuyzvQ/channels.wiktor",
+            "payload": {
+                "op": "ADD",
+                "key": null,
+                "value": {
+                    "id": "hfkqzscnaxq",
+                    "type": 1,
+                    "pubKey": "BNgYH2FOlmjJxtR3ZoCrPtnjTeeyY90zQEx6ak5JkoHk8i5LeLLZdfEjMpDuceJ40FWRX1jzwj+LADkee1Eheu0=",
+                    "message": "ok, teraz na general, bez odbioru",
+                    "channelId": "wiktor",
+                    "createdAt": 1642075304.526,
+                    "signature": "æó9wïE\u001bàmÎh1\rÛI\u0006ý½d\u001a\u0016¬üyÆGd¼÷ø¸4Ö\f\u0013\u0005¼)iíøl:\u000e5ÛDV\u0007xÊËXÄ\"Í®û"
+                }
+            },
+            "next": [
+                "zdpuB2XuBrVxZPuPRnsP62nwWCdDxQjsEKsjVsXXLTKP3o2KV"
+            ],
+            "refs": [
+                "zdpuAvFHKU3iaEugs7xfCQBp4PjrFBMJvcSNQ32ZPAk69nXSF",
+                "zdpuApe6dNNqDyKPGkiUgG4gwU9iuHt6hrmww6ywVWUum8X5q",
+                "zdpuArYGfPu7wH967YeZHUjNfUw63HrTYuGmofjngZ1Abxvse",
+                "zdpuAoaYEQwzPVP6uXN1GgXtfSu4KEaNu4hTvh9z6PrTddW2z"
+            ],
+            "v": 2,
+            "clock": {
+                "id": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+                "time": 13
+            },
+            "key": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+            "identity": {
+                "id": "021661cebf3cd9cfa912dd3f919593159e783b3076f7700dd4f00485f31e79bee9",
+                "type": "orbitdb",
+                "publicKey": "0450c724dc08dd8a4785abc1206b5a0f54fcbef9592061b9afc4c7e1e0cab116c41d78c09bf53d33b01fa29ec7faf82bf4e4e5f8a63e65b57b9dffbd9e29d9b7f2",
+                "signatures": {
+                    "id": "3045022100c75d247d0e8426d5e08cb4aa4bdafac49e1939f03a7547c315cb5b17ee5bcf11022002684aa45cd95408dba0e7dde1a2d3f83581dfda4c7eb3ce30bea9c023706861",
+                    "publicKey": "3045022100b4721a03575b28ac40859af262a8e06289ad700b46dd3796b4b408c752bb4c9d0220665520c4f7fc3f685bfafa0d584e5c86f8ed19dc497c0a39f412fbe8e215565e"
+                }
+            },
+            "sig": "3045022100d452809940577eef2bb4189142fd7c035c8f51f96c9235591a65d58ca7b1054a022042b6bf1141bbc8291db1046e5835f29d4222387dded6a7c1cefd172539c0dcff"
+        }
+    ]
+}
